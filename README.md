@@ -100,3 +100,5 @@ Press `q` in the video window to quit.
 ## Credits
 
 Arm design/mechanism: **Inmove**.
+<img width="1200" height="1600" alt="WhatsApp Image 2026-07-17 at 5 16 56 PM" src="https://github.com/user-attachments/assets/5f327875-6189-4bff-a08d-55014d12bb8b" />
+
